@@ -3,6 +3,7 @@
 
     </head>
     <body>
-        Hola, Bienvenidos al curo
+        Hola, Bienvenidos al sistema 
+        Jhonny Tenorio
     </body>
 </html>
